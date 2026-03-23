@@ -53,6 +53,7 @@ High mortality indicates:
 
 
 6. **Population vs TB Deaths**
+   
    Countries with large populations (e.g., Bangladesh) have high total TB deaths
    Absolute numbers can be misleading → need per capita analysis
    <img width="911" height="330" alt="Screenshot 2026-03-23 125935" src="https://github.com/user-attachments/assets/60e607f0-546a-44ac-9b7c-082594f30661" />
