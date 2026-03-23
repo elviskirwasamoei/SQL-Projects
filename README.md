@@ -29,5 +29,21 @@ Some countries consistently show extremely high TB prevalence
 These are priority regions for intervention
 <img width="823" height="327" alt="Screenshot 2026-03-23 113446" src="https://github.com/user-attachments/assets/129a42c3-805b-4f26-882d-08e4ac43330f" />
 
+3. **Regional TB Distribution**
+   AFR (Africa) region has the highest TB prevalence
+   EUR (Europe) shows the lowest burden
+   <img width="857" height="329" alt="Screenshot 2026-03-23 121600" src="https://github.com/user-attachments/assets/98eeb18e-39ab-4dc3-8239-407d4406e466" />
+   
+   4. **HIV and TB Relationship**
+      Countries with high HIV-TB cases also show high TB deaths
+      Confirms HIV as a major driver of TB severity
+      <img width="932" height="331" alt="Screenshot 2026-03-23 123157" src="https://github.com/user-attachments/assets/8c7fe597-f2b3-4abd-a1cf-2c25b7c8708f" />
+
+
+      
+      
+      
+
+
 
 
