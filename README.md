@@ -58,6 +58,15 @@ High mortality indicates:
    Absolute numbers can be misleading → need per capita analysis
    <img width="911" height="330" alt="Screenshot 2026-03-23 125935" src="https://github.com/user-attachments/assets/60e607f0-546a-44ac-9b7c-082594f30661" />
 
+7. **Most Improved Countries (Declining TB)**
+
+   Some countries show consistent reduction in TB prevalence
+   Reflects strong healthcare systems
+   <img width="939" height="357" alt="Screenshot 2026-03-23 141242" src="https://github.com/user-attachments/assets/ab02f221-5948-48a8-8d86-0b075e30d0ae" />
+
+
+   
+
 
          
 
