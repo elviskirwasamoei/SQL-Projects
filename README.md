@@ -73,10 +73,15 @@ High mortality indicates:
 
     **Key Findings Summary**
 .TB prevalence is declining globally, but unevenly
+
 .Africa remains the highest burden region
+
 .Strong HIV–TB correlation exists
+
 .Population size influences absolute TB deaths
+
 .Some countries show significant improvement, others are worsening
+
 
    
 
