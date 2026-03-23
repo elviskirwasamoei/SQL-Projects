@@ -1,0 +1,26 @@
+**Project overview**
+
+This project analyzes global tuberculosis (TB) data across multiple countries from 1990 to 2013 using SQL. The dataset captures key health indicators such as TB prevalence, mortality, HIV-related TB cases, and population estimates.
+
+The goal of this project is to uncover trends, regional disparities, and health risk factors influencing TB outcomes worldwide.
+
+**Key Variables**
+
+Country_Name – Name of the country
+Region – WHO region classification (AFR, EUR, SEA, etc.)
+Year – Time period (1990–2013)
+Estimated_population – Population size
+Prevalence_per1000 – TB prevalence rate
+Estimated_mortality – Estimated mortality rate
+TB_Deaths – Total TB-related deaths
+Hiv_Tb – TB cases associated with HIV
+prevalence_low / prevalence_high – Confidence intervals
+
+**Key Insights + SQL Queries**
+ 1. Global TB Trend Over Time
+ Insight
+TB prevalence generally declines from 1990 to 2013 in most countries
+Indicates improvement in global health interventions
+<img width="731" height="334" alt="Screenshot 2026-03-23 105046" src="https://github.com/user-attachments/assets/b8276d41-aca4-4a98-acd5-a2c32de0be0f" />
+
+
