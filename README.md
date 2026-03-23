@@ -42,6 +42,7 @@ These are priority regions for intervention
       <img width="932" height="331" alt="Screenshot 2026-03-23 123157" src="https://github.com/user-attachments/assets/8c7fe597-f2b3-4abd-a1cf-2c25b7c8708f" />
       
 5. **Countries with Highest TB Mortality**
+   
 
 High mortality indicates:
 
@@ -49,6 +50,7 @@ High mortality indicates:
          Late diagnosis
          Weak treatment systems
 <img width="909" height="350" alt="Screenshot 2026-03-23 124422" src="https://github.com/user-attachments/assets/6afa6087-8112-4c67-9b63-d2b873a2254a" />
+
 
 6. **Population vs TB Deaths**
    Countries with large populations (e.g., Bangladesh) have high total TB deaths
