@@ -48,8 +48,7 @@ High mortality indicates:
          Poor healthcare access
          Late diagnosis
          Weak treatment systems
-
-         <img width="909" height="350" alt="Screenshot 2026-03-23 124422" src="https://github.com/user-attachments/assets/6afa6087-8112-4c67-9b63-d2b873a2254a" />
+<img width="909" height="350" alt="Screenshot 2026-03-23 124422" src="https://github.com/user-attachments/assets/6afa6087-8112-4c67-9b63-d2b873a2254a" />
 
          
 
