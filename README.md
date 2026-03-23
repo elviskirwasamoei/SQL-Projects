@@ -72,6 +72,7 @@ High mortality indicates:
 
 
     **Key Findings Summary**
+   
 .TB prevalence is declining globally, but unevenly
 
 .Africa remains the highest burden region
