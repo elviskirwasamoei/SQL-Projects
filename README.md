@@ -16,15 +16,15 @@ TB_Deaths – Total TB-related deaths
 Hiv_Tb – TB cases associated with HIV
 prevalence_low / prevalence_high – Confidence intervals
 
-**Key Insights + SQL Queries**
- 1. Global TB Trend Over Time
- Insight
+
+ 1. **Global TB Trend Over Time**
+    
 TB prevalence generally declines from 1990 to 2013 in most countries
 Indicates improvement in global health interventions
 <img width="731" height="334" alt="Screenshot 2026-03-23 105046" src="https://github.com/user-attachments/assets/b8276d41-aca4-4a98-acd5-a2c32de0be0f" />
 
  2. **Countries with Highest TB Burden**
- Insight
+    
 Some countries consistently show extremely high TB prevalence
 These are priority regions for intervention
 <img width="823" height="327" alt="Screenshot 2026-03-23 113446" src="https://github.com/user-attachments/assets/129a42c3-805b-4f26-882d-08e4ac43330f" />
