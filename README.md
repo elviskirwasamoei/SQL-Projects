@@ -65,6 +65,7 @@ High mortality indicates:
    <img width="939" height="357" alt="Screenshot 2026-03-23 141242" src="https://github.com/user-attachments/assets/ab02f221-5948-48a8-8d86-0b075e30d0ae" />
 
 8. **Yearly TB Death Trend**
+   
    Helps identify whether global mortality is improving or worsening
    <img width="821" height="337" alt="Screenshot 2026-03-23 141925" src="https://github.com/user-attachments/assets/b342c938-cf43-4e8b-bb4a-b9b1aed9864a" />
 
