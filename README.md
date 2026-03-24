@@ -105,6 +105,7 @@ High mortality indicates:
          
   
  **Objectives**
+ 
         Analyze sales performance by region
         Identify top-performing products
         Evaluate profitability and margins
@@ -114,6 +115,7 @@ High mortality indicates:
         Source: Nike sales dataset
         
         Fields:Invoice Date
+        
                Region, City
                Product
                Units Sold
@@ -122,11 +124,12 @@ High mortality indicates:
                Operating Profit
                Operating Margin
 Data required cleaning due to formatting issues ($, %, commas, text types).
+
          Removed $, %, commas
          Converted TEXT → numeric
          Fixed date formats 
          
-         <img width="675" height="236" alt="Screenshot 2026-03-24 102041" src="https://github.com/user-attachments/assets/555564f9-d9f3-400a-a911-b55acd75743c" />
+  <img width="675" height="236" alt="Screenshot 2026-03-24 102041" src="https://github.com/user-attachments/assets/555564f9-d9f3-400a-a911-b55acd75743c" />
 
          
 
