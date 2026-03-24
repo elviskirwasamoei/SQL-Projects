@@ -108,6 +108,7 @@ High mortality indicates:
         Detect seasonal trends
 **Dataset Description**
         Source: Nike sales dataset
+        
         Fields:Invoice Date
                Region, City
                Product
@@ -120,6 +121,7 @@ Data required cleaning due to formatting issues ($, %, commas, text types).
          Removed $, %, commas
          Converted TEXT → numeric
          Fixed date formats 
+         
          <img width="675" height="236" alt="Screenshot 2026-03-24 102041" src="https://github.com/user-attachments/assets/555564f9-d9f3-400a-a911-b55acd75743c" />
 
          
