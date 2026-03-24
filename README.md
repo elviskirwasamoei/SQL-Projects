@@ -131,6 +131,14 @@ Data required cleaning due to formatting issues ($, %, commas, text types).
          Fixed date formats 
          
   <img width="675" height="236" alt="Screenshot 2026-03-24 102041" src="https://github.com/user-attachments/assets/555564f9-d9f3-400a-a911-b55acd75743c" />
+  
+
+ **1. TOP REGION BY TOTAL SALES**
+
+   <img width="577" height="141" alt="Screenshot 2026-03-24 105812" src="https://github.com/user-attachments/assets/68c665c9-e807-4bfb-be3b-2337b4d088ca" />
+
+ 
+          
 
          
 
