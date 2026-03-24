@@ -95,6 +95,7 @@ High mortality indicates:
 
 
 
+
 **Project 2 overview** 
 
 **Nike Sales Data Analysis (SQL Project)**
