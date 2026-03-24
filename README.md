@@ -135,6 +135,17 @@ Data required cleaning due to formatting issues ($, %, commas, text types).
 
  **1. TOP REGION BY TOTAL SALES**
 
+Insight:
+Northeast (New York) dominates in:
+Total Sales 
+Units Sold 
+Profit 
+
+Reason:
+
+   Higher pricing strategy
+   High demand volume
+
    <img width="577" height="141" alt="Screenshot 2026-03-24 105812" src="https://github.com/user-attachments/assets/68c665c9-e807-4bfb-be3b-2337b4d088ca" />
 
  
