@@ -130,6 +130,18 @@ Insight:
 The business generates strong revenue but profit margins vary due to pricing and discounts.
 
 
+2. Top Performing Countries
+   
+   <img width="862" height="382" alt="Screenshot 2026-03-30 110824" src="https://github.com/user-attachments/assets/abc3fa5c-11fe-48d9-96c8-f3e02136a378" />
+   
+  Insight:
+
+Countries like USA, Canada, Germany dominate sales
+
+Some countries have high sales but lower profitability
+
+
+
 
 
 
