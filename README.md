@@ -92,6 +92,32 @@ High mortality indicates:
 
 
 
+**Project 2 overview(Finance)**
+
+
+Main Table: financial sample
+
+Key Fields:
+
+Segment (Government, Midmarket, Enterprise, etc.)
+Country
+Product
+Discount Band (None, Low, Medium)
+Units Sold
+Sales, COGS, Profit
+Date (Month, Year)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
