@@ -94,6 +94,12 @@ High mortality indicates:
 
 **Project 2 overview(Finance)**
 
+This project presents a comprehensive financial data analysis using SQL, based on a global sales dataset. The objective is to uncover key business insights related to revenue, profitability, product performance, and customer segments.
+
+The dataset includes transactional data across multiple countries, products, and market segments, allowing for in-depth analysis of sales trends, discount impacts, and profit margins.
+
+Through structured SQL queries, this project demonstrates data cleaning, transformation, and analytical techniques to answer critical business questions and support data-driven decision-making.
+
 
 Main Table: financial sample
 
