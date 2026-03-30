@@ -152,6 +152,19 @@ Government segment generates highest revenue
 Small Business often yields strong profit margins
 
 
+4. Impact of Discounts
+   
+ <img width="862" height="363" alt="Screenshot 2026-03-30 113828" src="https://github.com/user-attachments/assets/6c48275b-d3c6-42fd-8863-a3eb1ef2db07" />
+
+
+   
+Insight:
+
+
+Low discounts = higher sales volume
+
+BUT excessive discounts → reduced profit margins
+
 
 
 
