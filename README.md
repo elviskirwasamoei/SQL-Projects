@@ -125,6 +125,10 @@ Discounts significantly reduce profitability
 
 <img width="911" height="259" alt="Screenshot 2026-03-30 105831" src="https://github.com/user-attachments/assets/9dfe40f6-38ef-4080-a679-dc7f7f81566d" />
 
+Insight:
+
+The business generates strong revenue but profit margins vary due to pricing and discounts.
+
 
 
 
