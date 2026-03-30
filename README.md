@@ -115,7 +115,7 @@ Date (Month, Year)
 
 Key Business Insights:
 
-1. Revenue vs Profit Insight
+**1. Revenue vs Profit Insight**
    
 High Sales ≠ High Profit
 
@@ -130,7 +130,7 @@ Insight:
 The business generates strong revenue but profit margins vary due to pricing and discounts.
 
 
-2. Top Performing Countries
+**2. Top Performing Countries**
    
    <img width="862" height="382" alt="Screenshot 2026-03-30 110824" src="https://github.com/user-attachments/assets/abc3fa5c-11fe-48d9-96c8-f3e02136a378" />
    
@@ -141,7 +141,7 @@ Countries like USA, Canada, Germany dominate sales
 Some countries have high sales but lower profitability
 
 
-3.  Segment Performance
+**3.  Segment Performance**
    
 <img width="857" height="361" alt="Screenshot 2026-03-30 111749" src="https://github.com/user-attachments/assets/4038197d-4256-4637-bd0d-bc408ac93906" />
 
@@ -152,7 +152,7 @@ Government segment generates highest revenue
 Small Business often yields strong profit margins
 
 
-4. Impact of Discounts
+**4. Impact of Discounts**
    
  <img width="862" height="363" alt="Screenshot 2026-03-30 113828" src="https://github.com/user-attachments/assets/6c48275b-d3c6-42fd-8863-a3eb1ef2db07" />
 
@@ -167,7 +167,7 @@ BUT excessive discounts → reduced profit margins
 
 
 
-5.Best Performing Combination
+**5.Best Performing Combination**
 
 <img width="918" height="362" alt="Screenshot 2026-03-30 114352" src="https://github.com/user-attachments/assets/9cdc8ce5-108d-4cfb-bbe1-f776ff6216b1" />
 
