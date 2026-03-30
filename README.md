@@ -141,6 +141,17 @@ Countries like USA, Canada, Germany dominate sales
 Some countries have high sales but lower profitability
 
 
+3.  Segment Performance
+   
+<img width="857" height="361" alt="Screenshot 2026-03-30 111749" src="https://github.com/user-attachments/assets/4038197d-4256-4637-bd0d-bc408ac93906" />
+
+Insight:
+
+Government segment generates highest revenue
+
+Small Business often yields strong profit margins
+
+
 
 
 
