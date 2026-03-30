@@ -189,6 +189,18 @@ Sales peak toward the end of the year (seasonality effect)
 
 Profitability varies heavily by country and segment
 
+**Business Recommendations**
+
+Reduce heavy discounting strategies
+
+Focus on high-margin products
+
+Optimize pricing for Enterprise segment
+
+Target high-performing countries
+
+Investigate loss-making transactions
+
 
 
 
