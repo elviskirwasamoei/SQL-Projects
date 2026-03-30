@@ -113,6 +113,17 @@ Units Sold
 Sales, COGS, Profit
 Date (Month, Year)
 
+Key Business Insights:
+
+1. Revenue vs Profit Insight
+   
+High Sales ≠ High Profit
+
+Some records show high revenue but low margins
+
+Discounts significantly reduce profitability
+
+
 
 
 
