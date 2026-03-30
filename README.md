@@ -167,6 +167,34 @@ BUT excessive discounts → reduced profit margins
 
 
 
+5.Best Performing Combination
+
+<img width="918" height="362" alt="Screenshot 2026-03-30 114352" src="https://github.com/user-attachments/assets/9cdc8ce5-108d-4cfb-bbe1-f776ff6216b1" />
+
+ 
+ 
+ Summary
+
+The business generates strong global revenue but profitability is inconsistent
+
+Government and Enterprise segments dominate sales volume
+
+Discounts significantly impact profit margins
+
+Certain products (like Paseo & VTT) are high performers
+
+Some transactions operate at a loss → pricing strategy issue
+
+Sales peak toward the end of the year (seasonality effect)
+
+Profitability varies heavily by country and segment
+
+
+
+
+
+
+
 
 
 
