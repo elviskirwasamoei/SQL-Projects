@@ -206,7 +206,9 @@ Investigate loss-making transactions
 
 **Project 2 overview(nike)**
 
-📊 Dataset Overview
+
+
+**Dataset Overview**
 
 The dataset contains sales transactions for Nike products with fields like:
 
@@ -229,6 +231,38 @@ Total Sales
 Operating Profit
 
 Operating Margin
+
+
+
+**Top-Selling Products by Region**
+
+
+<img width="839" height="381" alt="Screenshot 2026-04-09 145740" src="https://github.com/user-attachments/assets/c87986cd-0f9a-41e1-8c31-1f4b2abecf41" />
+
+**Insight:**
+
+Footwear dominates sales across all regions.
+
+Men’s Street Footwear is consistently a top-seller.
+
+**Monthly Sales Trend**
+
+
+<img width="926" height="367" alt="Screenshot 2026-04-09 150553" src="https://github.com/user-attachments/assets/2a387b2f-cd8d-4f77-beba-59b8832391a8" />
+
+
+**Insight:**
+
+Shows seasonal peaks in summer months (June–August).
+
+Useful for inventory planning and marketing campaigns.
+
+
+
+
+
+
+
 
 
 
