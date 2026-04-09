@@ -280,6 +280,27 @@ South and West have higher average operating margins—potential for expansion.
 
 <img width="915" height="357" alt="Screenshot 2026-04-09 154619" src="https://github.com/user-attachments/assets/732d0818-b740-4d97-8de5-b2da3c621245" />
 
+**Units Sold vs. Price per Unit**
+
+**Insight:**
+
+Products with lower price per unit sell more units (e.g., Women’s Street Footwear).
+
+Helps design pricing strategy.
+
+**Key Portfolio Insights**
+
+Cleaned and structured sales dataset ready for analysis.
+
+Shows top products, regions, and months for Nike.
+
+Identifies profit leaders vs. volume leaders.
+
+Demonstrates SQL skills: cleaning, aggregation, date handling, ranking, and business insight extraction.
+
+Can feed Tableau dashboards for interactive visualization (trend, top-N, regional comparison).
+
+
 
 
 
