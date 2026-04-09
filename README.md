@@ -262,6 +262,12 @@ Useful for inventory planning and marketing campaigns.
 
 <img width="919" height="367" alt="Screenshot 2026-04-09 152454" src="https://github.com/user-attachments/assets/439ca811-341f-4aad-9b10-0ff0b3baec8a" />
 
+**Insight:**
+
+Men’s Footwear has highest total profit.
+
+Apparel has lower margins but high consistency.
+
 
 
 
