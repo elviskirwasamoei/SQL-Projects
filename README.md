@@ -204,6 +204,38 @@ Investigate loss-making transactions
 
 
 
+**Project 2 overview(nike)**
+
+📊 Dataset Overview
+
+The dataset contains sales transactions for Nike products with fields like:
+
+Date
+
+Region
+
+State
+
+City
+
+Product Category (Footwear, Apparel)
+
+Price,
+
+Units Sold
+
+Total Sales
+
+Operating Profit
+
+Operating Margin
+
+
+
+
+
+
+
 
 
 
