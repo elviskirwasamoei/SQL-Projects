@@ -269,6 +269,24 @@ Men’s Footwear has highest total profit.
 Apparel has lower margins but high consistency.
 
 
+**Regional Comparison of Sales and Margin**
+
+
+**Insight:**
+
+Northeast leads in total sales.
+
+South and West have higher average operating margins—potential for expansion.
+
+<img width="915" height="357" alt="Screenshot 2026-04-09 154619" src="https://github.com/user-attachments/assets/732d0818-b740-4d97-8de5-b2da3c621245" />
+
+
+
+
+
+
+
+
 
 
 
