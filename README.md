@@ -323,9 +323,37 @@ Geographic data (Region, State, City)
 Order & shipping dates
 
 **Data Cleaning**
-🔧 Fix column name issue (BOM issue)
+
+Fix column name issue (BOM issue)
 
 <img width="495" height="102" alt="Screenshot 2026-04-13 152950" src="https://github.com/user-attachments/assets/581f995a-9531-4c14-b64b-c5943fae3b01" />
+
+**Key Business Insights**
+
+**Overall Performance**
+
+<img width="873" height="339" alt="Screenshot 2026-04-13 154921" src="https://github.com/user-attachments/assets/82d45a00-0112-45a5-a94b-10a631b38f02" />
+
+**Insight:**
+
+High sales but profit is inconsistent
+
+Discounts are impacting margins
+
+
+**Profitability by Product Category**
+
+**Insight:**
+
+Technology → highest profit driver
+
+Furniture → often high sales but low or negative profit
+
+<img width="912" height="318" alt="Screenshot 2026-04-13 160702" src="https://github.com/user-attachments/assets/7d16c2b9-16f5-4923-8570-edbd9cebbe0b" />
+
+
+
+
 
 
 
