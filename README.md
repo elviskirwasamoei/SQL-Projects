@@ -322,6 +322,12 @@ Geographic data (Region, State, City)
 
 Order & shipping dates
 
+**Data Cleaning**
+🔧 Fix column name issue (BOM issue)
+
+<img width="495" height="102" alt="Screenshot 2026-04-13 152950" src="https://github.com/user-attachments/assets/581f995a-9531-4c14-b64b-c5943fae3b01" />
+
+
 
 
 
