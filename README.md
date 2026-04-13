@@ -204,7 +204,7 @@ Investigate loss-making transactions
 
 
 
-**Project 2 overview(nike)**
+**Project 3 overview(nike)**
 
 
 
@@ -299,6 +299,28 @@ Identifies profit leaders vs. volume leaders.
 Demonstrates SQL skills: cleaning, aggregation, date handling, ranking, and business insight extraction.
 
 Can feed Tableau dashboards for interactive visualization (trend, top-N, regional comparison).
+
+
+
+
+
+**Project 3 overview(store)**
+
+**Dataset Overview**
+
+This dataset contains transactional retail data including:
+
+Sales, Profit, Discount
+
+Customer segments
+
+Product categories & sub-categories
+
+Shipping modes
+
+Geographic data (Region, State, City)
+
+Order & shipping dates
 
 
 
