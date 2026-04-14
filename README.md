@@ -351,6 +351,53 @@ Furniture → often high sales but low or negative profit
 
 <img width="912" height="318" alt="Screenshot 2026-04-13 160702" src="https://github.com/user-attachments/assets/7d16c2b9-16f5-4923-8570-edbd9cebbe0b" />
 
+**Loss-Making Transactions**
+
+
+<img width="856" height="345" alt="Screenshot 2026-04-14 145130" src="https://github.com/user-attachments/assets/ca658e10-a192-4a0f-aa06-4580390e14f2" />
+
+**Insight:**
+
+Dataset clearly shows frequent negative profits
+
+Suggests:
+
+Over-discounting
+
+High shipping costs
+
+Poor pricing strategy
+
+
+**Discount Impact on Profit**
+
+
+<img width="856" height="334" alt="Screenshot 2026-04-14 151110" src="https://github.com/user-attachments/assets/b5bbbe5b-fed4-460a-8e1d-54f90020ef47" />
+
+**Insight:**
+
+Higher discounts → lower or negative profit
+
+Strong case for:
+
+ Discount optimization strategy
+
+ **Category Performance**
+
+ <img width="863" height="337" alt="Screenshot 2026-04-14 152208" src="https://github.com/user-attachments/assets/43dfa46c-c3cb-4120-bc08-faa7e9815176" />
+
+**Insight:**
+Technology → high profit generator
+
+Furniture → often low/negative profit (seen in sample rows)
+
+
+
+
+
+
+
+
 
 
 
