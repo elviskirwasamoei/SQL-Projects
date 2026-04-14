@@ -392,6 +392,18 @@ Technology → high profit generator
 Furniture → often low/negative profit (seen in sample rows)
 
 
+**Sub-Category Risk Analysis**
+
+
+<img width="915" height="359" alt="Screenshot 2026-04-14 153413" src="https://github.com/user-attachments/assets/a5250dc7-53f7-4fd0-9d73-ff0a0b5077c6" />
+
+
+Insight:
+
+Some sub-categories consistently lose money,
+   These are business risk areas
+
+
 
 
 
