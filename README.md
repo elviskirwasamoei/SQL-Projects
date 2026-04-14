@@ -406,6 +406,23 @@ Some sub-categories consistently lose money,
 
 
 
+ **General Key Business Insights**
+ 
+ ✔ Discounts are the biggest driver of losses
+ 
+✔ Some products consistently generate negative profit
+
+✔ Furniture category needs pricing review
+
+✔ Corporate customers generate highest value
+
+✔ Shipping cost significantly impacts margins
+
+✔ Regional inefficiencies exist (sales ≠ profit)
+
+
+
+
 
 
 
